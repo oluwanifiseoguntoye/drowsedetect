@@ -1,4 +1,4 @@
-# Deep Drowsiness Detector using YOLO and Pytorch!
+# Drowsiness Detector using YOLO and Pytorch!
 
 ## Introduction
 This project aims to detect drowsiness in drivers using deep learning techniques. It uses YOLOv5 object detection algorithm and PyTorch deep learning framework to detect the eyes and face of the driver and classify whether the driver is drowsy or not.
