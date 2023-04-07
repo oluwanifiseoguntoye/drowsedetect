@@ -17,6 +17,7 @@ The deep drowsiness detector was tested on a dataset of drivers and achieved an 
 
 <img src="https://i.imgur.com/z8Yjmcf.png">
 <img src="https://i.imgur.com/KVKCwOt.png">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRjODlkMjYwNDI3MDMyNWJiZjk4NTk5ZDIyYjAwZjFkNTc0MmJmZiZjdD1n/jeM92LHYArWNmEA2oe/giphy.gif" class="card-img-top" alt="Project Image">
 
 ## Conclusion
 The deep drowsiness detector is an effective way to detect drowsiness in drivers using deep learning techniques. It has the potential to improve road safety and reduce accidents caused by drowsy driving.
